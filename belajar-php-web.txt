@@ -1,0 +1,24 @@
+-Beberapa key yang ada di $_SERVER(Global Server) mengikuti spesifikasi RFC 3875 - The Common Gateway Interface(CGI) v1.1
+https://datatracker.ietf.org/doc/html/rfc3875
+-Solusi XSS Cross Site Scripting
+https://www.php.net/manual/en/function.htmlspecialchars.php
+re
+-HTTP Response Code
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+-Session
+https://www.php.net/manual/en/reserved.variables.session.php
+-Using HTTP cookies
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+-Set Cookie PHP
+https://www.php.net/manual/en/function.setcookie.php
+-Get Cookie PHP from client
+https://www.php.net/manual/en/reserved.variables.cookies.php
+-PHP Upload File
+https://www.php.net/manual/en/features.file-upload.post-method.php
+-Filesystem Functions
+https://www.php.net/manual/en/ref.filesystem.php
+-Content-Disposition(memaksa download file)
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition
+-readfile
+https://www.php.net/manual/en/function.readfile.php
+
